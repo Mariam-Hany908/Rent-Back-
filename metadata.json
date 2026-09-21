@@ -1,0 +1,6 @@
+{
+  "name": "Rent Back",
+  "description": "Peer-to-peer rental marketplace for personal items with managed handover and return.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
